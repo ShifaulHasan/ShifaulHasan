@@ -39,9 +39,9 @@ I'm a passionate Fullstack Web Developer skilled in both front-end and back-end 
 
 ## 📈 GitHub Stats
 
-![ShifaulHasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![ShifaulHasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=radical)
 ---
 
 Thank you for visiting my profile!
