@@ -5,6 +5,9 @@ Welcome to my GitHub profile!
 I'm a passionate Fullstack Web Developer skilled in both front-end and back-end technologies. I love building scalable web apps and learning new tech.
 
 ---
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ShifaulHasan&theme=onedark&no-frame=true&column=7)
 
 ## 🛠 Tech Stack
 
