@@ -29,12 +29,14 @@ I'm a passionate Fullstack Web Developer with a strong command of both front-end
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-[![Twitter]([https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com](https://x.com/ShTaship?t=bldxTgRCNSzPMb-2MNQ6Jg&s=09))
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/md-shifaul-hasan-3a4095203))
-[![Pinterest]([https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com](https://pin.it/1FLGKJS))
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com](https://www.instagram.com/sh_taship/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shifaul-hasan-3a4095203)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sh_taship/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/1FLGKJS)
+[![Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/iamSHTaship)
+[![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShTaship?t=bldxTgRCNSzPMb-2MNQ6Jg&s=09)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0188eca2d41fa50c58)
 
 ---
 
