@@ -1,9 +1,7 @@
 # 👋 Hello! I'm ShifaulHasan
 
 Welcome to my GitHub profile!
-
-I'm a passionate Fullstack Web Developer skilled in both front-end and back-end technologies. I love building scalable web apps and learning new tech.
-
+I'm a passionate Fullstack Web Developer with a strong command of both front-end and back-end technologies. I love crafting responsive, user-friendly, and scalable web applications. Whether it's building sleek UIs or optimizing backend performance, I enjoy solving real-world problems through clean and efficient code. I'm always exploring new tools, frameworks, and best practices to grow as a developer. Let's build something amazing together!
 ---
 ## 🏆 GitHub Trophies
 
