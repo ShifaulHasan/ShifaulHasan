@@ -41,7 +41,7 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 | Portfolio Website | React, JS, CSS | [View Repo](https://github.com/ShifaulHasan/portfolio) |
 | Expense Tracker | PHP, MySQL, JS | [View Repo](https://github.com/ShifaulHasan/expense-tracker) |
 
-> 💡 Tip: Add a screenshot or GIF for each project inside the repo for better visual impact.
+
 
 ---
 
