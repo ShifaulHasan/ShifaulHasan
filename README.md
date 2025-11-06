@@ -49,43 +49,62 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 
 <div align="center">
 
-### 🌟 Contribution Overview (2025)
+<!-- ✨ Stylish Stats Card -->
+<div style="
+  background: linear-gradient(135deg, #1f1c2c, #928DAB);
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+  width: 90%;
+  margin: 20px auto;
+  color: white;
+">
 
-| 💻 Total Contributions | 🔥 Current Streak | 🏅 Longest Streak |
-|:----------------------:|:----------------:|:----------------:|
-| **63** _(Jan – Nov 2025)_ | **0 days** | **0 days** |
+<h3>🌟 Contribution Overview (2025)</h3>
+
+<table align="center" style="width:80%; text-align:center; margin:auto;">
+<tr>
+<th>💻 Total Contributions</th>
+<th>🔥 Current Streak</th>
+<th>🏅 Longest Streak</th>
+</tr>
+<tr>
+<td><b>63</b> <br><sub>(Jan – Nov 2025)</sub></td>
+<td><b>2 days</b></td>
+<td><b>2 days</b></td>
+</tr>
+</table>
+
+<br>
 
 ---
 
 ### 📊 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&bg_color=1f1c2c&color=00FFFF&line=39FF14&point=FFFFFF&area_color=00FF88&hide_border=true&radius=12" width="95%"/>
 
 ---
 
 ### 🧠 Language & Code Insights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=radical)
-
----
-
-### ⚙️ Detailed Stats
-
-![ShifaulHasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="47%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="47%"/>
 
 ---
 
 ### 🕒 Recent Activity Summary
 
-> 🗓️ **12 commits** made this month  
+> 🗓️ **12 commits** made this month & counting  
 > 📂 Active repositories:  
 > - [daily_expense_app](https://github.com/ShifaulHasan/daily_expense_app) → 7 commits  
 > - [ShifaulHasan](https://github.com/ShifaulHasan/ShifaulHasan) → 5 commits  
-> 🧩 Keep going — consistency builds expertise!
+> 💡 *Keep the momentum — small steps build great streaks!*
+
+</div>
 
 </div>
 
 ---
+
 
 ## 📬 Connect with Me
 
