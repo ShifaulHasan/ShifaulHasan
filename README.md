@@ -37,9 +37,9 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 
 | Project | Tech | Repo |
 |---------|------|------|
-| Smart Inventory & Billing System | Js,CSS, MySQL | [View Repo](https://github.com/ShifaulHasan/inventory-billing) |
-| LMS | php, JS, CSS | [View Repo](https://github.com/ShifaulHasan/LMS) |
-| Expense Tracker | PHP, MySQL, CSS| [View Repo](https://github.com/ShifaulHasan/expense-tracker) |
+| daily_expense_app | HTML,CSS, MySQL,PHP | [View Repo](https://github.com/ShifaulHasan/daily_expense_app) |
+| LMS | PHP, JS, CSS, HTML | [View Repo](https://github.com/ShifaulHasan/LMS) |
+|My-profile-card| HTML5, CSS3| [View Repo](https://github.com/ShifaulHasan/My-profile-card) |
 
 
 
