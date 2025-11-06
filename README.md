@@ -12,36 +12,37 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 
 <div align="center">
 
-<!-- 🪄 Modern Trophy Card -->
+<!-- 🌈 Stylish Gradient Trophy Card -->
 <div style="
-  background: linear-gradient(135deg, #1f1c2c, #928DAB);
+  background: linear-gradient(135deg, #141E30, #243B55);
   padding: 25px;
   border-radius: 20px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.45);
   width: 92%;
-  margin: 20px auto;
+  margin: 25px auto;
   color: white;
 ">
 
 <h3>✨ Achievements Unlocked (2025)</h3>
 
-<!-- Main Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=ShifaulHasan&theme=tokyonight&no-frame=true&margin-w=8&margin-h=10&column=6&title=Repositories,Commit,Followers,PullRequest,Stars,Issues" width="100%"/>
+<!-- 🏅 Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=ShifaulHasan&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6&title=Repositories,Commit,Followers,PullRequest,Stars,Issues" width="100%"/>
 
 ---
 
-### 🪶 Personal Highlights
+### 🌟 Developer Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-63-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Current_Streak-0_days-lightgrey?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Longest_Streak-0_days-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%8C%8D-blueviolet?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-%F0%9F%93%9A-orange?style=for-the-badge&logo=readme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-%F0%9F%92%BB-0099ff?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel%20Enthusiast-%F0%9F%8E%AF-red?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 ---
 
-> 🏅 *“Progress is built one commit at a time.”*  
-> 💡 Keep learning, keep coding — every push matters!
+> 💪 *Building projects, contributing to open source, and growing every day!*  
+> 💡 *“Code. Learn. Share. Repeat.”*
 
 </div>
 
