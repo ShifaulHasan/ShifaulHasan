@@ -8,12 +8,46 @@ From sleek **front-end interfaces** to robust **back-end architectures**, I love
 When I'm not coding, I explore **new technologies**, contribute to **open-source**, and optimize workflows.
 
 ---
-
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ShifaulHasan&theme=onedark&no-frame=true&column=7)
+<div align="center">
+
+<!-- 🪄 Elegant Gradient Card -->
+<div style="
+  background: linear-gradient(135deg, #232526, #414345);
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+  width: 92%;
+  margin: 20px auto;
+">
+
+<h3>✨ Achievements Unlocked</h3>
+
+<!-- Main Trophy Image -->
+<img src="https://github-profile-trophy.vercel.app/?username=ShifaulHasan&theme=radical&no-frame=true&margin-w=8&margin-h=10&column=6&title=MultiLanguage,Commit,Repositories,Followers,PullRequest,Stars" width="100%"/>
 
 ---
+
+### 🪶 Highlighted Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Commit%20Master-97%20days-success?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge&logo=readme&logoColor=white"/>
+</p>
+
+---
+
+> 🏅 “Every commit is a step closer to mastery.”  
+> 💡 Keep pushing, learning, and shipping amazing code.
+
+</div>
+
+</div>
+
+---
+
 
 ## 🛠 Tech Stack
 
