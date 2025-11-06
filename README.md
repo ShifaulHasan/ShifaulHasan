@@ -12,35 +12,36 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 
 <div align="center">
 
-<!-- 🪄 Elegant Gradient Card -->
+<!-- 🪄 Modern Trophy Card -->
 <div style="
-  background: linear-gradient(135deg, #232526, #414345);
+  background: linear-gradient(135deg, #1f1c2c, #928DAB);
   padding: 25px;
   border-radius: 20px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.5);
   width: 92%;
   margin: 20px auto;
+  color: white;
 ">
 
-<h3>✨ Achievements Unlocked</h3>
+<h3>✨ Achievements Unlocked (2025)</h3>
 
-<!-- Main Trophy Image -->
-<img src="https://github-profile-trophy.vercel.app/?username=ShifaulHasan&theme=radical&no-frame=true&margin-w=8&margin-h=10&column=6&title=MultiLanguage,Commit,Repositories,Followers,PullRequest,Stars" width="100%"/>
+<!-- Main Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=ShifaulHasan&theme=tokyonight&no-frame=true&margin-w=8&margin-h=10&column=6&title=Repositories,Commit,Followers,PullRequest,Stars,Issues" width="100%"/>
 
 ---
 
-### 🪶 Highlighted Badges
+### 🪶 Personal Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Commit%20Master-97%20days-success?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge&logo=readme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Total_Contributions-63-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Current_Streak-0_days-lightgrey?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Longest_Streak-0_days-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-> 🏅 “Every commit is a step closer to mastery.”  
-> 💡 Keep pushing, learning, and shipping amazing code.
+> 🏅 *“Progress is built one commit at a time.”*  
+> 💡 Keep learning, keep coding — every push matters!
 
 </div>
 
