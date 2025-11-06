@@ -47,8 +47,43 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 
 ## 📈 GitHub Stats
 
-![ShifaulHasan's Stats](https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=radical)
+<div align="center">
+
+### 🌟 Contribution Overview (2025)
+
+| 💻 Total Contributions | 🔥 Current Streak | 🏅 Longest Streak |
+|:----------------------:|:----------------:|:----------------:|
+| **63** _(Jan – Nov 2025)_ | **0 days** | **0 days** |
+
+---
+
+### 📊 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 🧠 Language & Code Insights
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=radical)
+
+---
+
+### ⚙️ Detailed Stats
+
+![ShifaulHasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+### 🕒 Recent Activity Summary
+
+> 🗓️ **12 commits** made this month  
+> 📂 Active repositories:  
+> - [daily_expense_app](https://github.com/ShifaulHasan/daily_expense_app) → 7 commits  
+> - [ShifaulHasan](https://github.com/ShifaulHasan/ShifaulHasan) → 5 commits  
+> 🧩 Keep going — consistency builds expertise!
+
+</div>
 
 ---
 
