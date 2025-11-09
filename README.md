@@ -76,6 +76,7 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 | daily_expense_app | HTML,CSS, MySQL,PHP | [View Repo](https://github.com/ShifaulHasan/daily_expense_app) |
 | LMS | PHP, JS, CSS, HTML | [View Repo](https://github.com/ShifaulHasan/LMS) |
 |My-profile-card| HTML5, CSS3| [View Repo](https://github.com/ShifaulHasan/My-profile-card) |
+|Daily_ExpensePro_plus|HTML5,CSS3,JS,PHP| [View Repo](https://github.com/ShifaulHasan/expensepro_plus) |
 
 
 
@@ -133,7 +134,7 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 > 📂 Active repositories:  
 > - [daily_expense_app](https://github.com/ShifaulHasan/daily_expense_app) → 7 commits  
 > - [ShifaulHasan](https://github.com/ShifaulHasan/ShifaulHasan) → 5 commits  
-> 💡 *Keep the momentum — small steps build great streaks!*
+> -[dailyexpense proplus] (https://github.com/ShifaulHasan/expensepro_plus)
 
 </div>
 
