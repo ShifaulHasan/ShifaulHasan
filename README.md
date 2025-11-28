@@ -108,8 +108,8 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 </tr>
 <tr>
 <td><b>63</b> <br><sub>(Jan – Nov 2025)</sub></td>
-<td><b>2 days</b></td>
-<td><b>2 days</b></td>
+<td><b>4 days</b></td>
+<td><b>5 days</b></td>
 </tr>
 </table>
 
