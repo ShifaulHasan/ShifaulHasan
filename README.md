@@ -4,8 +4,7 @@
 </h1>
 
 <p align="center">
-  I build <b>modern, scalable and dynamic web applications</b> that solve real-world problems.<br/>
-  Passionate about <b>Fullstack Development, Open-Source, Laravel & Efficiency.</b>
+  Building scalable web applications with modern technologies. Specialized in Laravel ecosystem and full-stack development with a focus on clean architecture and user experience.
 </p>
 
 ---
