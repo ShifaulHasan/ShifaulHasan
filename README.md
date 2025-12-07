@@ -29,29 +29,35 @@
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend Development
-
 **JavaScript • React • HTML5 • CSS3 • Bootstrap • Responsive Design**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff) 
-![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-4CAF50?style=flat)
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Responsive%20Design-4CAF50?style=flat" />
+</p>
 
 ### 🔧 Backend  
 **RESTful APIs • MVC Architecture**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-FC4349?style=flat&logo=laravel)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+
+<p>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/-Laravel-FC4349?style=flat&logo=laravel" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django" />
+</p>
 
 ### 🛠 Database & Tools
-
 **MySQL • Git • Version Control • Agile Methodologies**
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
-![Version Control](https://img.shields.io/badge/-Version%20Control-000000?style=flat&logo=git)
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Version%20Control-000000?style=flat&logo=git" />
+</p>
+
 ---
 
 ## 🔥 Featured Projects
@@ -65,24 +71,24 @@
 
 ---
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 <div align="center">
-🚀 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&include_all_commits=true" alt="GitHub Stats"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
-<img src="https://streak-stats.demolab.com?user=ShifaulHasan&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&include_all_commits=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ShifaulHasan&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 </div>
-</div>
-
-
-
 
 ---
 
 ### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&bg_color=1f1c2c&color=00FFFF&line=39FF14&point=FFFFFF&area_color=00FF88&hide_border=true&radius=12&animation=true"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&bg_color=1f1c2c&color=00FFFF&line=39FF14&point=FFFFFF&area_color=00FF88&hide_border=true&radius=12&animation=true" />
+</p>
+
 ---
+
 ## 🔥 Current Project
 
 | Project | Tech Stack | Repo | Status |
@@ -91,6 +97,7 @@
 
 💡 **Longest Streak Project** → 17 days working consistently on this project!
 
+---
 
 ### 🕒 Recent Activity  
 > 🗓 **12 commits** this month  
@@ -98,8 +105,6 @@
 > • daily_expense_app → 7 commits  
 > • ShifaulHasan → 5 commits  
 > • expensepro_plus → active  
-
-</div>
 
 ---
 
@@ -113,9 +118,7 @@
 </p>
 
 ---
+
 <div align="center">
-"Clean code, scalable solutions, continuous learning."
+  "Clean code, scalable solutions, continuous learning."
 </div>
-
-
-
