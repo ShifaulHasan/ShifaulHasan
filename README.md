@@ -66,11 +66,13 @@
 ---
 
 <div align="center">
+🚀 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12&include_all_commits=true" alt="GitHub Stats" width="60%"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" width="45%"/>
+<img src="https://streak-stats.demolab.com?user=ShifaulHasan&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" width="45%"/>
+</div>
 
-<h2>🚀 GitHub Stats</h2>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="60%" alt="GitHub Stats"/>
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Top Languages"/>
