@@ -61,12 +61,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShifaulHasan&theme=tokyonight&hide_border=true&border_radius=12" width="65%"/>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShifaulHasan&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=00FF88&currStreakNum=17&currStreakLabel=Longest%20Streak" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
+<!-- General Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%"/> 
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" width="48%"/>
+
+<br/><br/>
+
+**💡 Longest Streak Project:** `Mini E-Commerce` → 17 consecutive days of active work!  
+
+</div>
 
 ---
 
