@@ -59,13 +59,16 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShifaulHasan&theme=tokyonight&hide_border=true&border_radius=12" width="65%"/>
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShifaulHasan&theme=tokyonight&hide_border=true&border_radius=12" width="65%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%" alt="GitHub Stats"/> 
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Top Languages"/>
 
 </div>
 
@@ -73,14 +76,11 @@
 💡 <b>Longest Streak Project:</b> <code>Mini E-Commerce</code> → 17 consecutive days of active work!
 </p>
 
+
 ---
 
-### 📊 Contribution Graph  
-<h3 align="center">📊 GitHub Activity</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/your-animated-graph.gif" width="80%"/>
-</p>
-
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&bg_color=1f1c2c&color=00FFFF&line=39FF14&point=FFFFFF&area_color=00FF88&hide_border=true&radius=12&animation=true"/>
 ---
 ## 🔥 Current Project
 
@@ -112,9 +112,9 @@
 </p>
 
 ---
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Let%27s+build+something+amazing+together%21"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00FFD5,FF00FF,FF5733&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Let's+build+something+amazing+together!"/>
 </h3>
+
 
 
