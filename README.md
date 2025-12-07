@@ -74,10 +74,6 @@
 </div>
 
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Top Languages"/>
-
-</div>
 
 
 
