@@ -71,9 +71,17 @@
 ---
 
 ### 📊 Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&bg_color=1f1c2c&color=00FFFF&line=39FF14&point=FFFFFF&area_color=00FF88&hide_border=true&radius=12"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&bg_color=1f1c2c&color=00FFFF&line=39FF14&point=FFFFFF&area_color=00FF88&hide_border=true&radius=12&animation=true"/>
 
 ---
+## 🔥 Current Project
+
+| Project | Tech Stack | Repo | Status |
+|---------|-----------|------|--------|
+| **Mini E-Commerce** | PHP, Laravel, MySQL, JS, Bootstrap | [View Repo](https://github.com/ShifaulHasan/mini-ecommerce) | In Progress |
+
+💡 **Longest Streak Project** → 17 days working consistently on this project!
+
 
 ### 🕒 Recent Activity  
 > 🗓 **12 commits** this month  
@@ -97,4 +105,7 @@
 
 ---
 
-<h3 align="center">🚀 Let's build something amazing together!</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=🚀+Let's+build+something+amazing+together!"/>
+</h3>
+
