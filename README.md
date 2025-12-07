@@ -29,21 +29,30 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+### 🎨 Frontend Development
+
+**JavaScript • React • HTML5 • CSS3 • Bootstrap • Responsive Design**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff) 
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-4CAF50?style=flat)
 
 ### 🔧 Backend  
+**RESTful APIs • MVC Architecture**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-FC4349?style=flat&logo=laravel)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 
-### 🗄️ Database  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+### 🛠 Database & Tools
 
+**MySQL • Git • Version Control • Agile Methodologies**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) 
+![Version Control](https://img.shields.io/badge/-Version%20Control-000000?style=flat&logo=git)
 ---
 
 ## 🔥 Featured Projects
@@ -59,29 +68,16 @@
 
 <div align="center">
 
-<h2>🚀 My GitHub Stats</h2>
+<h2>🚀 GitHub Stats</h2>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=ShifaulHasan&theme=tokyonight&border_radius=12&hide_border=true" width="70%" alt="GitHub Streak"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="60%" alt="GitHub Stats"/>
 
-<br/><br/>
-
-<!-- Stats Cards -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="350" alt="GitHub Stats"/> 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="350" alt="Top Languages"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Top Languages"/>
 
 </div>
 
-<br/>
-
-<p align="center" style="font-size: 16px;">
-💡 <b>Longest Streak Project:</b> <code>Mini E-Commerce</code> → <span style="color:#FFD700;">17 consecutive days</span> of active work!
-</p>
-
-</div>
 
 
 
@@ -120,10 +116,9 @@
 </p>
 
 ---
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00FFD5,FF00FF,FF5733&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80%20Let's%20build%20something%20amazing%20together!"/>
-</h3>
-
+<div align="center">
+"Clean code, scalable solutions, continuous learning."
+</div>
 
 
 
