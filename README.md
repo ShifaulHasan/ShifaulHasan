@@ -57,32 +57,29 @@
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
 
-<!-- Streak Stats -->
+<!-- GitHub Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShifaulHasan&theme=tokyonight&hide_border=true&border_radius=12" width="65%"/>
 
 <br/><br/>
 
-<!-- General Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=ShifaulHasan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%"/> 
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" width="48%"/>
-
-<br/><br/>
-
-**💡 Longest Streak Project:** `Mini E-Commerce` → 17 consecutive days of active work!  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShifaulHasan&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%"/>
 
 </div>
 
+<p align="center">
+💡 <b>Longest Streak Project:</b> <code>Mini E-Commerce</code> → 17 consecutive days of active work!
+</p>
 
 ---
 
 ### 📊 Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShifaulHasan&theme=react-dark&bg_color=1f1c2c&color=00FFFF&line=39FF14&point=FFFFFF&area_color=00FF88&hide_border=true&radius=12&animation=true"/>
+<h3 align="center">📊 GitHub Activity</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourusername/your-animated-graph.gif" width="80%"/>
+</p>
 
 ---
 ## 🔥 Current Project
@@ -117,6 +114,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=🚀+Let's+build+something+amazing+together!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Let%27s+build+something+amazing+together%21"/>
 </h3>
+
 
