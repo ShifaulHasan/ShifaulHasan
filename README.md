@@ -102,16 +102,17 @@ When I'm not coding, I explore **new technologies**, contribute to **open-source
 
 <table align="center" style="width:80%; text-align:center; margin:auto;">
 <tr>
-<th>💻 Total Contributions</th>
-<th>🔥 Current Streak</th>
-<th>🏅 Longest Streak</th>
+    <th>💻 Total Contributions</th>
+    <th>🔥 Current Streak</th>
+    <th>🏅 Longest Streak</th>
 </tr>
 <tr>
-<td><b>63</b> <br><sub>(Jan – Nov 2025)</sub></td>
-<td><b>4 days</b></td>
-<td><b>5 days</b></td>
+    <td><b>63</b> <br><sub>(Jan – Nov 2025)</sub></td>
+    <td><b>15 days</b> <br><sub>(currently active)</sub></td>
+    <td><b>15 days</b> <br><sub>(ongoing)</sub></td>
 </tr>
 </table>
+
 
 <br>
 
